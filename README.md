@@ -3,7 +3,7 @@
 This project implements my **first Convolutional Neural Network (CNN)** from scratch using **PyTorch**, applied to the **MNIST handwritten digits dataset**.  
 The main goal is to **strengthen my understanding of convolutional architectures** and their application to image classification tasks, while maintaining a clear and reproducible workflow.
 
----
+--
 
 ## Project Overview
 The workflow includes:
